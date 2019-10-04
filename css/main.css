@@ -57,8 +57,10 @@ article ol{
   list-style-type: lower-greek;
 }
 
+}
 dt{
   font-style: italic;
+  line-height: 1.5;
 }
 
 dd{
@@ -67,4 +69,20 @@ dd{
 
 data{
   font-weight: normal;
+}
+
+aside ul{
+  list-style-type:circle;
+  font-size: 0.8rem;
+}
+
+footer small a:link,
+footer small a:visited{
+  text-decoration: none;
+  color:#8f2440;
+  font-size: 0.8rem;
+}
+
+footer small a:hover{
+  color:#3f1622;
 }
