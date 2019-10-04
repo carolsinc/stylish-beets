@@ -1,7 +1,7 @@
 html{
 
   background-color: #c9b5ab;
-  line-hight:1.5;
+  line-height:1.5;
   font-family: 'PT Sans', sans-serif;
   font-size: 1rem;
 }
@@ -10,7 +10,7 @@ h1, h2{
   color: #3f1622;
   font-weight: bold;
   font-size: 1.5rem;
-  line-hight:1.5;
+  line-height:1.5;
 }
 
 p, ol, figcaption, blockquote, data, ul, footer{
