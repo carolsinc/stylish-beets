@@ -1,92 +1,93 @@
-html{
+html {
 
   background-color: #c9b5ab;
-  line-height:1.5;
-  font-family: 'PT Sans', sans-serif;
+  line-height: 1.5;
+  font-family: "PT Sans", sans-serif;
   font-size: 1rem;
 }
 
-h1, h2{
+h1, h2 {
   color: #3f1622;
   font-weight: bold;
   font-size: 1.5rem;
   line-height:1.5;
 }
 
-p, ol, figcaption, blockquote, data, ul, footer{
-  font-family: 'PT Serif', serif;
+p, ol, figcaption, blockquote, data, ul, footer {
+  font-family: "PT Serif", serif;
 }
 
 nav ol a:link,
-nav ol a:visited{
+nav ol a:visited {
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   text-decoration: none;
   font-weight: bold;
 }
 
-nav ol a:hover{
+nav ol a:hover {
   color: #3f1622;
 }
-ol{
-    list-style-type: none;
+
+ol {
+  list-style-type: none;
 }
-img{
+
+img {
   width: 100%;
 }
 
-figcaption{
+figcaption {
   font-style: italic;
   text-align: center;
 }
 
-
-
-
-.days{
-  font-family: 'PT Serif', serif;
+.days {
+  font-family: "PT Serif", serif;
   font-weight: bold;
 }
 
-blockquote{
+blockquote {
   font-style: italic;
   font-size:1.5rem;
 }
-.chris{
+
+.chris {
   font-size:0.8rem;
 }
-strong{
+
+strong {
   font-weight: normal;
 }
 
-article ol{
+article ol {
   list-style-type: lower-greek;
 }
 
-dd{
+dd {
   font-weight: bold;
 }
 
-data{
+data {
   font-weight: normal;
 }
 
-dt{
+dt {
   font-style: italic;
   line-height: 1.5;
 }
-aside ul{
+aside ul {
   list-style-type:circle;
   font-size: 0.8rem;
 }
 
 footer small a:link,
-footer small a:visited{
+footer small a:visited {
   text-decoration: none;
   color:#8f2440;
   font-size: 0.8rem;
 }
 
-footer small a:hover{
+footer small a:hover {
   color:#3f1622;
 }
