@@ -40,5 +40,23 @@ figcaption{
 .days{
   font-family: 'PT Serif', serif;
   font-weight: bold;
-  font-size: 1.5rem;
+}
+
+blockquote{
+  font-style: italic;
+  font-size:1.5rem;
+}
+.chris{
+  font-size:0.8rem;
+}
+strong{
+  font-weight: normal;
+}
+
+article ol{
+  list-style-type: lower-greek;
+}
+
+dt{
+  font-style: italic;
 }
