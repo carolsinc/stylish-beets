@@ -60,3 +60,11 @@ article ol{
 dt{
   font-style: italic;
 }
+
+dd{
+  font-weight: bold;
+}
+
+data{
+  font-weight: normal;
+}
