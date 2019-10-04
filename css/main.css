@@ -13,6 +13,10 @@ h1, h2{
   line-hight:1.5;
 }
 
+p, ol, figcaption, blockquote, data, ul, footer{
+  font-family: 'PT Serif', serif;
+}
+
 nav ol a:link,
 nav ol a:visited{
   color: #8f2440;
@@ -37,6 +41,8 @@ figcaption{
 }
 
 
+
+
 .days{
   font-family: 'PT Serif', serif;
   font-weight: bold;
@@ -57,12 +63,6 @@ article ol{
   list-style-type: lower-greek;
 }
 
-}
-dt{
-  font-style: italic;
-  line-height: 1.5;
-}
-
 dd{
   font-weight: bold;
 }
@@ -71,6 +71,10 @@ data{
   font-weight: normal;
 }
 
+dt{
+  font-style: italic;
+  line-height: 1.5;
+}
 aside ul{
   list-style-type:circle;
   font-size: 0.8rem;
