@@ -13,14 +13,20 @@ h1, h2{
   line-hight:1.5;
 }
 
-nav ol a:link{
+nav ol a:link,
+nav ol a:visited{
   color: #8f2440;
   font-family: 'PT Sans', sans-serif;
   text-decoration: none;
   font-weight: bold;
-  list-style-type: none;
 }
 
+nav ol a:hover{
+  color: #3f1622;
+}
+ol{
+    list-style-type: none;
+}
 img{
   width: 100%;
 }
