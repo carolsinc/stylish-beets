@@ -10,7 +10,7 @@ h1, h2 {
   color: #3f1622;
   font-weight: bold;
   font-size: 1.5rem;
-  line-height:1.5;
+  line-height: 1.5;
 }
 
 p, ol, figcaption, blockquote, data, ul, footer {
@@ -49,11 +49,11 @@ figcaption {
 
 blockquote {
   font-style: italic;
-  font-size:1.5rem;
+  font-size: 1.5rem;
 }
 
 .chris {
-  font-size:0.8rem;
+  font-size: 0.8rem;
 }
 
 strong {
@@ -76,6 +76,7 @@ dt {
   font-style: italic;
   line-height: 1.5;
 }
+
 aside ul {
   list-style-type:circle;
   font-size: 0.8rem;
@@ -84,10 +85,10 @@ aside ul {
 footer small a:link,
 footer small a:visited {
   text-decoration: none;
-  color:#8f2440;
+  color: #8f2440;
   font-size: 0.8rem;
 }
 
 footer small a:hover {
-  color:#3f1622;
+  color: #3f1622;
 }
