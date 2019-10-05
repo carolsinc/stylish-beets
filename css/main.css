@@ -27,6 +27,7 @@ a:visited {
 
 a:hover {
   color: #3f1622;
+  text-decoration: none;
 }
 
 ol {
