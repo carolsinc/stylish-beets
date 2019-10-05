@@ -1,7 +1,7 @@
 html {
 
   background-color: #c9b5ab;
-  line-height: 1.5;
+
   font-family: "PT Sans", sans-serif;
   color: #222;
 }
@@ -15,6 +15,7 @@ h1, h2 {
 
 p, ol, figcaption, blockquote, data, ul, footer {
   font-family: "PT Serif", serif;
+  line-height: 1.5;
 }
 
 a,
