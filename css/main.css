@@ -17,6 +17,7 @@ p, ol, figcaption, blockquote, data, ul, footer {
   font-family: "PT Serif", serif;
 }
 
+a,
 a:link,
 a:visited {
   color: #8f2440;
