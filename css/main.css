@@ -3,7 +3,6 @@ html {
   background-color: #c9b5ab;
   line-height: 1.5;
   font-family: "PT Sans", sans-serif;
-  font-size: 1rem;
 }
 
 h1, h2 {
@@ -24,6 +23,7 @@ a:visited {
   font-family: "PT Sans", sans-serif;
   text-decoration: none;
   font-weight: bold;
+  font-size: 1.125rem;
 }
 
 a:hover {
