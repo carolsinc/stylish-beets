@@ -56,7 +56,7 @@ blockquote {
 }
 
 .chris {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 strong {
@@ -82,14 +82,14 @@ dt {
 
 aside ul {
   list-style-type: circle;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 footer small a:link,
 footer small a:visited {
   text-decoration: none;
   color: #8f2440;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 footer small a:hover {
